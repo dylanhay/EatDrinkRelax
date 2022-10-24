@@ -38,8 +38,4 @@ The Cocktail DB API
 https://rheneadianne.github.io/EatDrinkRelax/
 
 ## Contribution
-Made with fingers and a keyboard by Trevor Bos 🖐️
-Made with ❤️ by Dianne Espeleta
-Made with ❤️ by Dylan Hay
-Made with ❤️ by Rob
-Made with ❤️ by Alex
+Made with ❤️ by Trevor Bos, Dianne Espeleta, Dylan Hay, Rob Duo, Alexandre Savov
