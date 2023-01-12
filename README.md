@@ -1,41 +1,36 @@
 # Eat Drink Relax
-Project 1
 
-## Purpose
-A website where one can randomize what they want to eat for dinner, drink on the side, and watch a movie to relax with. Each section allows for the user to randomly
-generate until they find something they like. If the user REALLY likes what they have chosen, they can even add it to their favorites, and view them on a seperate page.
+## Description
+Webpage for users to randomly generate ideas for meals, drinks and movies. Favorites can be saved to localStorage. Data is being retrieved from the Spoonacular API, TheCocktailDB API, and TMDB API.
+
+## License  
+This application is covered under the following license. Please review the link below for additional information pertaining to the license.
+    
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)  
+https://www.gnu.org/licenses/gpl-3.0
+
+## Table of Contents
+[Deployed Application](#deployed-application)  
+[Built With](#built-with)  
+[Landing Page](#landing-page)  
+[Contribution](#contribution)  
+
+## Deployed Application
+
 
 ## Built With
-HTML
-CSS
-JavaScript
-JQUERY
-BULMA
-TMDB API
-Spoonacular API
-The Cocktail DB API
+* JavaScript
+* HTML
+* CSS
+* Bulma
+* jQuery
+* Spoonacular API
+* TheCocktailDB API
+* TMDB API
+* Git
 
-
-# Screenshots
-
-## Main Page
-![image](https://user-images.githubusercontent.com/103614767/175129722-26c5f761-98ea-4f82-a4eb-f8fb35c08c88.png)
-![Recording 2022-06-22 at 16 28 29](https://user-images.githubusercontent.com/103614767/175130127-cd7cf779-8386-44a7-ba1b-1d7ef4ea31a6.gif)
-
-## Eat
-![image](https://user-images.githubusercontent.com/103614767/175130206-7d168bc6-7810-48cb-ba21-6cc9ac99adc0.png)
-
-## Drink
-![image](https://user-images.githubusercontent.com/103614767/175130246-8636d39d-10e4-4733-b562-aba4b2bcd38d.png)
-
-## Relax
-![image](https://user-images.githubusercontent.com/103614767/175130298-8a7926d3-11e7-4f15-b437-9fcd19370c82.png)
-
-## Favorites
-![image](https://user-images.githubusercontent.com/103614767/175130055-c7de181c-7778-403a-8cc6-ba38b7387cbb.png)
-
-## Website
-https://rheneadianne.github.io/EatDrinkRelax/
+## Landing Page
+![Screenshot](./assets/img/edr-land.png "Landing Page")
 
 ## Contribution
-Made with ❤️ by Trevor Bos, Dianne Espeleta, Dylan Hay, Rob Duo, Alexandre Savov
+Built by Dylan Hay, Trevor Bos, Dianne Espeleta, Rob Duo, and Alexandre Savov
