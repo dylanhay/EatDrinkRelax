@@ -16,7 +16,7 @@ https://www.gnu.org/licenses/gpl-3.0
 [Contribution](#contribution)  
 
 ## Deployed Application
-
+https://dylanhay.github.io/EatDrinkRelax/
 
 ## Built With
 * JavaScript
